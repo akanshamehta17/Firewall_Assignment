@@ -13,5 +13,4 @@ fw.accept_packet("inbound","tcp",80,"192.168.1.266");
 2.) If I had more time, I could have tested my code for large datasets and accordingly optimized it.
 
 3.) I am interested in following teams:
-    -Platform 
-    -Data
+    Platform, Data
